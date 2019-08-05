@@ -229,6 +229,7 @@ Linear regression model and supervised learning.
 
 * [Lecture Notes](lecturenotes/ME314_day4.pdf)
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
+* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
 
 ##### Required Reading
 
@@ -248,7 +249,7 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 ##### Resources
 
 * [Lecture Notes](lecturenotes/ME314_day5.pdf)
-* [Lab 5 materials](https://lse-me314.github.io/assignment05/)
+* [Midterm/Lab 5 materials](https://lse-me314.github.io/assignment05/).  **This is also the mid-term exam.**]  To submit this, you should upload your single HTML file to the Moodle page by Wednesday 7 August 19:00.
 
 ##### Required Reading
 
