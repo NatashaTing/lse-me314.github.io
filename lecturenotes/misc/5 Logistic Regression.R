@@ -121,7 +121,7 @@ cv_model2 <- train(
   Attrition ~ MonthlyIncome + OverTime, 
   data = churn_train, 
   method = "glm",
-  family = "binomial",
+  family = "binomial",  # this one means logistic
   trControl = trainControl(method = "cv", number = 10)
 )
 
