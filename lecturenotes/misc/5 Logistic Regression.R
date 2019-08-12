@@ -249,6 +249,7 @@ legend(.8, .2, legend = c("cv_model1", "cv_model3"),
 # perform 10-fold cross validation on a PLS model tuning the number of
 # principal components to use as predictors from 1-20
 set.seed(123)
+
 cv_model_pls <- train(
   Attrition ~ ., 
   data = churn_train, 
